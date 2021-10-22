@@ -1,4 +1,4 @@
-[!Goose Byte Small Banner](article.png?raw=true "Goose Byte")
+![Goose Byte Small Banner](article.png?raw=true "Goose Byte")
 
 # 🕹 Goose Byte 🎮
 
