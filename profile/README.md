@@ -6,4 +6,4 @@
 
 🙌 In the future we hope to make some of our repositiories public to share real examples of working pipelines.
 
-🔗 If you're interested to know, hop over to [goosebyte.games](https://www.goosebyte.games/) and connect with us.
+🔗 If you're interested to know more, hop over to [goosebyte.games](https://www.goosebyte.games/) and connect with us.
