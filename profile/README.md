@@ -2,8 +2,8 @@
 
 # 🕹 Goose Byte 🎮
 
-⌨ We use GitHub for our developing our games and websites!
+⌨ We use GitHub for developing our games and websites!
 
-🙌 In the future we hope to make some of our repositiories public to share real examples of working pipelines.
+🙌 In the future we hope to make some of our repositories public to share real examples of working pipelines.
 
 🔗 If you're interested to know more, hop over to [goosebyte.games](https://www.goosebyte.games/) and connect with us.
