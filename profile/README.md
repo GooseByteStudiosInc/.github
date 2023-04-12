@@ -1,4 +1,4 @@
-[![Goose Byte Small Banner](https://raw.githubusercontent.com/GooseByteStudiosInc/.github/main/profile/article.png "Goose Byte")](https://goosebyte.games/)
+[![Goose Byte Small Banner](https://raw.githubusercontent.com/GooseByteStudiosInc/.github/main/article.png "Goose Byte")](https://goosebyte.games/)
 
 # 🕹 Goose Byte 🎮
 
